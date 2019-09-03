@@ -1,2 +1,2 @@
 # hello-world
-just a demo for a  new github user
+just a demo of a  new github user
